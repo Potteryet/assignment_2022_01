@@ -11,6 +11,7 @@ h1{
 }
 p{
     margin-left: 170px;
+    
 }
 .one-fontcolor{
     color: #A178DF;
@@ -112,6 +113,43 @@ margin-left: 20px;
     margin-bottom: 20px;
 
 }
+#soft-bg{
+    background-color: #ffeef8;
+
+}
+.testing-newthing{
+    display: flex;
+    height: 600px;
+    margin-top: 50px;
+   
+
+}
+.test-productimg img{
+    width: 600px;
+    height: 600px;
+    margin-left: 50px;
+
+
+}
+.test-product{
+    width: 800px;
+    height: 400px;
+    margin-left: 70px;
+    
+
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+
+
+}
+span{
+    color: orangered;
+}
+
 
   
   
