@@ -46,13 +46,8 @@ p{
     text-align: center;
     margin-left: 300px;
     
-}
-.mvg{
-    display: flex;
-  justify-content: center;
-  width: auto;  
-  
-}
+} 
+
 h2{
     margin-left: 171px;
     
@@ -64,10 +59,9 @@ h2{
     margin-left: 180px;
    
 
-}
-.box-img{
-    
-}
+}  
+       
+
 .box-one{
 background: #CCCCFF;
 border-radius: 35px;
@@ -91,6 +85,31 @@ padding-right: 20%;
 height: 860px;
 width: 350px;
 margin-left: 20px;
+
+}
+.positon-two{
+    display: flex;
+    height: 500px;
+    margin-top: 150px;
+
+}
+.vanishing-b{
+    border-left: none;
+
+}
+
+
+.settle-img img{
+    width: 400px;
+    height: 400px;
+    margin-left: 150px;
+
+
+}
+.settle-p{
+    width: 650px;
+    height: 320px;
+    margin-bottom: 20px;
 
 }
 
